@@ -1,70 +1,62 @@
-# 👋 Hi there!
+# Hello, I'm CHANGEME
+<a href="www.linkedin.com/in/luka-babetzki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## 🛠️ Technologies & Tools
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+## Objective
 
-<!--
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Identity & Access Management (Cloud Security) | <a href="https://github.com/Luka-Babetzki/Cloud-Security-with-AWS-IAM">Cloud Security with AWS IAM </a>|
+
+
+
+
+
+
+## Tools
+
+<!--- 
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
 -->
 
-<!--
-## 💼 Professional Experience
+## Certifications
 
-- **Software Engineer at [Company Name]**
-  - Dates: Month Year – Present
-  - Description: Brief description of your role and responsibilities.
+<!---
 
-- **Previous Position at [Company Name]**
-  - Dates: Month Year – Month Year
-  - Description: Brief description of your role and responsibilities.
--->
-## 🎓 Education  
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-- **Bachelor of Science (BCs), Computer Science and Neuroscience**
-  - Keele University, 2025
-
-<!--
-## 🔭 Projects
-
-- **[Project Name]**
-  - Description: Brief description of what the project does.
-  - Technologies: List of technologies used.
-  - [Repository Link](https://github.com/username/project-name)
-
-- **[Another Project Name]**
-  - Description: Brief description of what the project does.
-  - Technologies: List of technologies used.
-  - [Repository Link](https://github.com/username/project-name)
 -->
 
-
-## 🌱 Currently Learning
-
-- Splunk
-- Malware Analysis
-- Studying for Certified in Cybersecurity (CC)
-- Preparing for CompTIA Security+
-
-
-## 💬 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Babetzki&langs_count=8&theme=radical)
-
-
-## 📫 How to Reach Me
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/luka-babetzki)
-- [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:lukababetzki@outlook.com)
-
-<!--
-## 📄 Publications & Talks
-
-- **[Title of Publication or Talk]**
-  - Description: Brief description of the publication or talk.
-  - [Link to publication or recording](https://www.example.com)
+## Projects
+- Cloud Security with AWS IAM
