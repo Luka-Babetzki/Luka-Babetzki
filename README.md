@@ -37,24 +37,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Logstash-FDCC00?style=for-the-badge&logo=Logstash&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Kibana-E8488B?style=for-the-badge&logo=Kibana&logoColor=white" />
 </div>
 
 -->
 
 ## Certifications
 
-<!---
+<!--
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0078D4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div>
 
 -->
 
