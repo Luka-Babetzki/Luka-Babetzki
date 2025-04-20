@@ -24,6 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/-SpyderIDE-FF0000?style=for-the-badge&logo=SpyderIDE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 </div>
 
 <!--- 
