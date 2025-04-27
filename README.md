@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Identity & Access Management (Cloud Security) | <a href="https://github.com/Luka-Babetzki/Cloud-Security-with-AWS-IAM">Cloud Security with AWS IAM </a>|
+| Identity & Access Management | <a href="https://github.com/Luka-Babetzki/Cloud-Security-with-AWS-IAM">Cloud Security with AWS IAM </a>|
 
 
 
