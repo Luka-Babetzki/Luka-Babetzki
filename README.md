@@ -37,6 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Logstash-FDCC00?style=for-the-badge&logo=Logstash&logoColor=black" />
