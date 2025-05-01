@@ -61,4 +61,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## Projects
-- Cloud Security with AWS IAM
+- AWS Cloud Security
