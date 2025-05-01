@@ -11,6 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| | SOC Automation Lab (WIP) |
+| | Active Directory Lab (WIP) |
 | Identity & Access Management | <a href="https://github.com/Luka-Babetzki/Cloud-Security-with-AWS-IAM">Cloud Security with AWS IAM </a>|
 
 
