@@ -60,5 +60,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 -->
 
-## Projects
-- AWS Cloud Security
+## Projects/Labs
+- AWS Cloud Security Lab
+- Network Analysis (Malware) Lab
+- Active Directory Project
