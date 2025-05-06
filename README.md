@@ -1,7 +1,7 @@
 # Hello, I'm Luka!
 <a href="https://linkedin.com/in/luka-babetzki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent computer science graduate with a profound interest in technology and network security. As a continuous learner, I actively seek opportunities to expand my knowledge and skills, and I enjoy tackling complex challenges to make a meaningful contribution within the technology sector.
+I am a soon-to-gradute computer science student with a profound interest in technology and network security. As a continuous learner, I actively seek opportunities to expand my knowledge and skills, and I enjoy tackling complex challenges to make a meaningful contribution within the technology sector.
 
 ## Objective
 
