@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | | <a href="https://github.com/Luka-Babetzki/Active-Directory-Lab">Active Directory Project (WIP) </a> | 
 | | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab (WIP) </a> | 
-| Configuring AWS Identity & Access Management | <a href="https://github.com/Luka-Babetzki/AWS-Cloud-Security">AWS Cloud Security Lab </a> |
+| Configuring AWS Identity & Access Management | <a href="https://github.com/Luka-Babetzki/AWS-Cloud-Security-Lab">AWS Cloud Security Lab </a> |
 
 
 
