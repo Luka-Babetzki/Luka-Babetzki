@@ -11,9 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project/Lab         |
 |-----------------------------------------------|----------------------------|
-| | <a href="https://github.com/Luka-Babetzki/Active-Directory-Lab">Active Directory Project (On Hold) </a> | 
-| | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
-| | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
+| Network traffic analysis using Wireshark | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
+| Identifying malicious domains and IPs | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
+| Timeline reconstruction of network events | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
+| File type analysis using hex signatures | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
+| Email header and SPF evaluation | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
+| Decoding base64 and embedded payloads | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
+| Safe attachment inspection with CyberChef and ExifTool | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
 | Configuring AWS Identity & Access Management | <a href="https://github.com/Luka-Babetzki/AWS-Cloud-Security-Lab">AWS Cloud Security Lab </a> |
 
 
@@ -62,6 +66,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## Projects/Labs
-- AWS Cloud Security Lab
 - Network Analysis (Malware) Lab
-- Active Directory Project
+- Email Analysis (Phishing) Lab
+- AWS Cloud Security Lab
