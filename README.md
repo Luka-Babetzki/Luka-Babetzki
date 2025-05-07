@@ -22,13 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Configuring AWS Identity & Access Management | <a href="https://github.com/Luka-Babetzki/AWS-Cloud-Security-Lab">AWS Cloud Security Lab </a> |
 
 
-
-
-
-
 ## Tools
-
- 
 
 ### Network
 <div>
