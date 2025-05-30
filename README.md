@@ -1,6 +1,5 @@
 # Hello, I'm Luka!
 <a href="https://linkedin.com/in/luka-babetzki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/lukababetzki"><img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 I am a soon-to-gradute computer science student with a profound interest in technology and network security. As a continuous learner, I actively seek opportunities to expand my knowledge and skills, and I enjoy tackling complex challenges to make a meaningful contribution within the technology sector.
 
@@ -64,3 +63,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Network Analysis (Malware) Lab
 - Email Analysis (Phishing) Lab
 - AWS Cloud Security Lab
+
+---
+<a href="https://tryhackme.com/p/lukababetzki"><img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://blueteamlabs.online/public/user/3ba350b85c7fffb7d4470d"><img src="https://img.shields.io/badge/-BTLO-blue?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDFMMjEgNVYxMUMyMSAxNi41NSAxNi41NCAyMSAxMiAyMUM3LjQ2IDIxIDMgMTYuNTUgMyAxMVY1TDEyIDFaTTEyIDdWMTlDMTYuNTIgMTkgMjAgMTUuNTIgMjAgMTFWNkwxMiA3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white" /></a>
