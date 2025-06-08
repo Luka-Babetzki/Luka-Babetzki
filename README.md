@@ -86,7 +86,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 -->
 
-## Projects/Labs
+## Projects
+_Real-world simulations, tools integration, and end-to-end workflows_
+- Active Directory
+- Home-lab
+
+## Labs
+_Exercises on specific techniques and concepts_
 - Network Analysis (Malware) Lab
 - Email Analysis (Phishing) Lab
 - AWS Cloud Security Lab
