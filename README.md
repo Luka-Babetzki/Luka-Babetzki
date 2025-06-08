@@ -26,8 +26,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <!---
+    <img src="https://img.shields.io/badge/-Sysmon-0A66C2?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk_Universal_Forwarder-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-DD1B16?&style=for-the-badge&logo=testing-library&logoColor=white" />
 </div>
-
+-->
 <!---
 
 ### Endpoint
