@@ -55,6 +55,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
+### Adversary Emulation & Detection Validation
+<div>
+    <Atomic Redteam>
+    <Caldera MITRE>
+    <Metsploit>
+</div>
+
+
 ### Incident Response
 <div>
     <>
