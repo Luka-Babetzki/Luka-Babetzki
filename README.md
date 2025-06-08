@@ -23,30 +23,51 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <!---
-    <img src="https://img.shields.io/badge/-Sysmon-0A66C2?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk_Universal_Forwarder-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Atomic_Red_Team-DD1B16?&style=for-the-badge&logo=testing-library&logoColor=white" />
+
 </div>
--->
+
 <!---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Logstash-FDCC00?style=for-the-badge&logo=Logstash&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Kibana-E8488B?style=for-the-badge&logo=Kibana&logoColor=white" />
+    <splunk>
+    <elastic>
+    <wazuh>
+</div>
+
+
+### Threat Intelligence
+<div>
+    <mitre att&ck>
+    <maltego>
+    <virustotal>
+</div>
+
+
+### Endpoint Security
+<div>
+    <>
+    <>
+</div>
+
+
+### Incident Response
+<div>
+    <>
+    <>
+    <>
+</div>
+
+
+### Digital Forensics
+<div>
+    <autospy>
+    <>
+    <>
 </div>
 
 -->
@@ -56,10 +77,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!--
 
 <div>
-    <img src="https://img.shields.io/badge/-Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0078D4?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<div>
+    <sec+>
+    <net+>
+    <AWS cloud prac>
+    <boss of the soc (splunk)>
+</div>
 
 -->
 
