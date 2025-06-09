@@ -29,70 +29,64 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-<!---
 
-
-### SIEM
+<!--- ### SIEM -->
 <div>
-    <splunk>
-    <elastic>
-    <wazuh>
+    <!--- <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-Wazuh-0263E0?style=for-the-badge&logo=Wazuh&logoColor=white" /> -->
 </div>
 
 
 ### Threat Intelligence
 <div>
-    <mitre att&ck>
-    <maltego>
-    <virustotal>
+    <!--- <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6B35?&style=for-the-badge&logo=mitre&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-1C1C1C?&style=for-the-badge" />
+    <!--- <img src="https://img.shields.io/badge/-Maltego-FF6900?&style=for-the-badge&logo=maltego&logoColor=white" /> -->
 </div>
 
 
-### Endpoint Security
+<!--- ### Endpoint Security -->
 <div>
-    <>
-    <>
+    <!--- <> -->
+    <!--- <> -->
 </div>
 
 
-### Adversary Emulation & Detection Validation
+<!--- ### Adversary Emulation & Detection Validation -->
 <div>
-    <Atomic Redteam>
-    <Caldera MITRE>
-    <Metsploit>
+    <!--- <Atomic Redteam> -->
+    <!--- <Caldera MITRE> -->
+    <!--- <Metsploit> -->
 </div>
 
 
-### Incident Response
+<!--- ### Incident Response -->
 <div>
-    <>
-    <>
-    <>
+    <!--- <> -->
+    <!--- <> -->
+    <!--- <> -->
 </div>
 
 
-### Digital Forensics
+<!--- ### Digital Forensics -->
 <div>
-    <autospy>
-    <>
-    <>
+    <!--- <autospy> -->
+    <!--- <> -->
+    <!--- <> -->
 </div>
 
--->
 
 ## Certifications
-
-<!--
-
 <div>
-    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0078D4?style=for-the-badge&logoColor=white" />
-    <sec+>
-    <net+>
-    <AWS cloud prac>
-    <boss of the soc (splunk)>
+    <!-- <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0078D4?style=for-the-badge&logoColor=white" /> -->
+    <!-- <sec+> -->
+    <!-- <net+> -->
+    <!-- <AWS cloud prac> -->
+    <!-- <boss of the soc (splunk)> -->
 </div>
 
--->
 
 ## Projects
 _Real-world simulations, tools integration, and end-to-end workflows_
