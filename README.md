@@ -80,11 +80,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-    <!-- <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0078D4?style=for-the-badge&logoColor=white" /> -->
-    <!-- <sec+> -->
-    <!-- <net+> -->
-    <!-- <AWS cloud prac> -->
-    <!-- <boss of the soc (splunk)> -->
+    <!--- <img src="https://img.shields.io/badge/-ISC2%20CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> -->
+    <!--- <img src="https://img.shields.io/badge/-Splunk%20BOTS-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> -->
 </div>
 
 
