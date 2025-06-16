@@ -30,9 +30,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-<!--- ### SIEM -->
+### SIEM
 <div>
-    <!--- <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Splunk-FF6B35?style=for-the-badge&logo=Splunk&logoColor=white" />
     <!--- <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> -->
     <!--- <img src="https://img.shields.io/badge/-Wazuh-0263E0?style=for-the-badge&logo=Wazuh&logoColor=white" /> -->
 </div>
@@ -42,7 +42,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <!--- <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6B35?&style=for-the-badge&logo=mitre&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-1C1C1C?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-00A4EF?&style=for-the-badge&logoColor=white" />
     <!--- <img src="https://img.shields.io/badge/-Maltego-FF6900?&style=for-the-badge&logo=maltego&logoColor=white" /> -->
 </div>
 
