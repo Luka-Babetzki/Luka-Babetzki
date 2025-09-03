@@ -1,104 +1,83 @@
-# Hello, I'm Luka!
-<a href="https://linkedin.com/in/luka-babetzki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
-I am a soon-to-gradute computer science student with a profound interest in technology and network security. As a continuous learner, I actively seek opportunities to expand my knowledge and skills, and I enjoy tackling complex challenges to make a meaningful contribution within the technology sector.
+# 👋 Hey there, I'm Luka!
 
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now working towards transitioning into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Over time, I intend to progress towards a focus on Security Information and Event Management (SIEM), using data-driven insights to enhance organisational security.
-
-## Skills
-
-| Skill                                         | Associated Project/Lab         |
-|-----------------------------------------------|----------------------------|
-| Network traffic analysis using Wireshark | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
-| Identifying malicious domains and IPs | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
-| Timeline reconstruction of network events | <a href="https://github.com/Luka-Babetzki/Network-Analysis-Lab">Network Analysis (Malware) Lab </a> | 
-| File type analysis using hex signatures | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
-| Email header and SPF evaluation | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
-| Decoding base64 and embedded payloads | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
-| Safe attachment inspection with CyberChef and ExifTool | <a href="https://github.com/Luka-Babetzki/Email-Analysis-Lab">Email Analysis (Phishing) Lab </a> |
-| Configuring AWS Identity & Access Management | <a href="https://github.com/Luka-Babetzki/AWS-Cloud-Security-Lab">AWS Cloud Security Lab </a> |
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif">
 
 
-## Tools
-
-### Network Security
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Aspiring+SOC+Analyst)](https://git.io/typing-svg)
 
 </div>
 
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-FF6B35?style=for-the-badge&logo=Splunk&logoColor=white" />
-    <!--- <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> -->
-    <!--- <img src="https://img.shields.io/badge/-Wazuh-0263E0?style=for-the-badge&logo=Wazuh&logoColor=white" /> -->
+<!--
+"About Me" can be done once new TELOS is completed
+-->
+
+## About Me
+
+🎓 **Final year Computer Science student** transitioning into cybersecurity  
+🔐 **Goal**: Landing my first SOC Tier 1 Analyst role  
+📚 **Currently**: Building hands-on experience through practical labs and real-world simulations  
+🚀 **Next**: Diving deeper into SIEM technologies and threat detection  
+
+
+
+
+*Check out my lab repos below for detailed walkthroughs and findings! 👇🏻*
+
+- 
+- 
+- 
+
+<br><br>
+<div align="center">
+
+## My Toolkit
+
+**Security Tools**
+
+  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
+<br><br>
+</div>
+
+<div align="center">
+
+**Operating Systems**
+
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<br><br>
 </div>
 
 
-### Threat Intelligence
-<div>
-    <!--- <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6B35?&style=for-the-badge&logo=mitre&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-00A4EF?&style=for-the-badge&logoColor=white" />
-    <!--- <img src="https://img.shields.io/badge/-Maltego-FF6900?&style=for-the-badge&logo=maltego&logoColor=white" /> -->
+<div align="center">
+
+## My Certifications
+
+
+*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!* 📚
+
+
+<br><br>
 </div>
 
+<div align="center">
 
-<!--- ### Endpoint Security -->
-<div>
-    <!--- <> -->
-    <!--- <> -->
+## 🫱🏼‍🫲🏼 Let's Connect!
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/lukabbzk)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white)](https://cyberdefenders.org/p/lukababetzki)
+[![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukababetzki)
 </div>
-
-
-<!--- ### Adversary Emulation & Detection Validation -->
-<div>
-    <!--- <Atomic Redteam> -->
-    <!--- <Caldera MITRE> -->
-    <!--- <Metsploit> -->
-</div>
-
-
-<!--- ### Incident Response -->
-<div>
-    <!--- <> -->
-    <!--- <> -->
-    <!--- <> -->
-</div>
-
-
-<!--- ### Digital Forensics -->
-<div>
-    <!--- <autospy> -->
-    <!--- <> -->
-    <!--- <> -->
-</div>
-
-
-## Certifications
-<div>
-    <!--- <img src="https://img.shields.io/badge/-ISC2%20CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" /> -->
-    <!--- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /> -->
-    <!--- <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /> -->
-    <!--- <img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> -->
-    <!--- <img src="https://img.shields.io/badge/-Splunk%20BOTS-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> -->
-</div>
-
-
-## Projects
-_Real-world simulations, tools integration, and end-to-end workflows_
-- Active Directory
-- Home-lab
-
-## Labs
-_Exercises on specific techniques and concepts_
-- Network Analysis (Malware) Lab
-- Email Analysis (Phishing) Lab
-- AWS Cloud Security Lab
 
 ---
-<a href="https://tryhackme.com/p/lukababetzki"><img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href="https://blueteamlabs.online/public/user/3ba350b85c7fffb7d4470d"><img src="https://img.shields.io/badge/-BTLO-blue?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExLjk5IDJMNCAxOC43NVY3LjVMMTEuOTkgNUwyMCA3LjVWMTguNzVMMTEuOTkgMjJaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KPC9zdmc+Cg==&logoColor=white" /></a>
+
+<div align="center">
+
+  *"The best defence is a good understanding of the attack"* 🛡️
+
+</div>
