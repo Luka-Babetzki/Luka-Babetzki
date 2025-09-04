@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColour=white"/>
+  <img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColour=white"/>
 <br><br>
 </div>
 
