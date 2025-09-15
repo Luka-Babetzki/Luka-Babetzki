@@ -5,23 +5,24 @@
 I am Luka Babetzki, an aspiring cybersecurity professional currently earning my CompTIA A+, Network+, and Security+ certifications through IT Online Learning. I'm passionate about transforming theoretical knowledge into practical skills through hands-on projects and lab environments. I document my learning journey and technical discoveries through my blog on Medium, sharing insights from real-world implementations and security challenges.
 <br><br>
 
+
 ## Portfolio
 
 Here are some key projects that demonstrate my hands-on experience in IT infrastructure and cybersecurity:
 
-|       Project                           |        Skills      |
-|-----------------------------------------|----------------------------------|
-| <a href="">Set up a Ticketing System</a>               | `ServiceNow` `Service-Level Agreements` `Issue Management` `Ticket Triage` `Windows 10` `Virtualisation`                                 |
-| <a href="">Active Directory & User Management</a>      | `Active Directory` `Windows Server` `Policy Group` `Virtualisation`                |
-|  <a href="">Microsoft 365 Admin Environment</a>     |  `Microsoft 365 Administration` `Microsoft Exchange` `Microsoft Teams` `User Management` `Multi-Factor Authentication` `Windows 10` `Virtualisation`             |
+|       Project                           |        Skills/Knowledge Gained      |
+|-----------------------------------------|-------------------------------------|
+| <a href="">Set up a Ticketing System</a>               | `ServiceNow`, `Service-Level Agreements`, `Issue Management`, `Ticket Triage`, `Windows 10`, `Virtualisation`                                 |
+| <a href="">Active Directory & User Management</a>      | `Active Directory`, `Windows Server`, `Policy Group`, `Virtualisation`                |
+|  <a href="">Microsoft 365 Admin Environment</a>     |  `Microsoft 365 Administration` `Microsoft Exchange` `Microsoft Teams`, `User Management`, `Multi-Factor Authentication`, `Windows 10`, `Virtualisation`             |
 
 <br><br>
-
 
 
 ## Certifications
 
 *Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
+
 <br><br>
 
 
