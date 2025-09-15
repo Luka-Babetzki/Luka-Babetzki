@@ -1,47 +1,36 @@
 <div align="center">
 
-# 👋 Hey there, I'm Luka!
-
-<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif">
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Aspiring+SOC+Analyst)](https://git.io/typing-svg)
-
+# Hi, I'm Luka!
 </div>
 
+## Professional Summary
 
-<!--
-"About Me" can be done once new TELOS is completed
--->
-
-## About Me
-
-🎓 **Final year Computer Science student** transitioning into cybersecurity  
-🔐 **Goal**: Landing my first SOC Tier 1 Analyst role  
-📚 **Currently**: Building hands-on experience through practical labs and real-world simulations  
-🚀 **Next**: Diving deeper into SIEM technologies and threat detection  
-
-
-
-
-*Check out my lab repos below for detailed walkthroughs and findings! 👇🏻*
-
-- 
-- 
-- 
-
+I am Luka Babetzki, an aspiring cybersecurity professional currently earning my CompTIA A+, Network+, and Security+ certifications through IT Online Learning. I'm passionate about transforming theoretical knowledge into practical skills through hands-on projects and lab environments. I document my learning journey and technical discoveries through my blog on Medium, sharing insights from real-world implementations and security challenges.
 <br><br>
+
+## Portfolio
+
+Here are some key projects that demonstrate my hands-on experience in IT infrastructure and cybersecurity:
+
+|       Project                           |        Skills      |
+|-----------------------------------------|----------------------------------|
+| <a href="">Set up a Ticketing System</a>               | `ServiceNow` `Service-Level Agreements` `Issue Management` `Ticket Triage` `Windows 10` `Virtualisation`                                 |
+| <a href="">Active Directory & User Management</a>      | `Active Directory` `Windows Server` `Policy Group` `Virtualisation`                |
+|  <a href="">Microsoft 365 Admin Environment</a>     |  `Microsoft 365 Administration` `Microsoft Exchange` `Microsoft Teams` `User Management` `Multi-Factor Authentication` `Windows 10` `Virtualisation`             |
+<br><br>
+
+
 <div align="center">
 
-## My Toolkit
+## Toolkit
 
 **Security Tools**
 
-  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColour=white"/>
-  <img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColour=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE_ATT&CK®-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
 <br><br>
 </div>
 
@@ -49,27 +38,23 @@
 
 **Operating Systems**
 
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<br><br>
-</div>
-
-
-<div align="center">
-
-## My Certifications
-
-
-*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!* 📚
-
-
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 <br><br>
 </div>
 
 <div align="center">
 
-## 🫱🏼‍🫲🏼 Let's Connect!
+## Certifications
+
+*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
+<br><br>
+</div>
+
+<div align="center">
+
+## Let's Connect!
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukababetzki)
@@ -82,6 +67,6 @@
 
 <div align="center">
 
-  *"The best defence is a good understanding of the attack"* 🛡️
+*"The best defence is a good understanding of the attack"*
 
 </div>
