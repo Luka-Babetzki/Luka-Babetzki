@@ -1,7 +1,4 @@
-<div align="center">
-
 # Hi, I'm Luka!
-</div>
 
 ## Professional Summary
 
@@ -17,16 +14,24 @@ Here are some key projects that demonstrate my hands-on experience in IT infrast
 | <a href="">Set up a Ticketing System</a>               | `ServiceNow` `Service-Level Agreements` `Issue Management` `Ticket Triage` `Windows 10` `Virtualisation`                                 |
 | <a href="">Active Directory & User Management</a>      | `Active Directory` `Windows Server` `Policy Group` `Virtualisation`                |
 |  <a href="">Microsoft 365 Admin Environment</a>     |  `Microsoft 365 Administration` `Microsoft Exchange` `Microsoft Teams` `User Management` `Multi-Factor Authentication` `Windows 10` `Virtualisation`             |
+
 <br><br>
 
 
-<div align="center">
+
+## Certifications
+
+*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
+<br><br>
+
 
 ## Toolkit
 
-**Security Tools**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" />
+### Security Tools
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE_ATT&CK®-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
@@ -36,34 +41,24 @@ Here are some key projects that demonstrate my hands-on experience in IT infrast
 
 <div align="center">
 
-**Operating Systems**
+### Operating Systems
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <br><br>
 </div>
 
-<div align="center">
-
-## Certifications
-
-*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
-<br><br>
-</div>
 
 <div align="center">
 
 ## Let's Connect!
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukababetzki)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/lukabbzk)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white)](https://cyberdefenders.org/p/lukababetzki)
-
 </div>
-
----
 
 <div align="center">
 
