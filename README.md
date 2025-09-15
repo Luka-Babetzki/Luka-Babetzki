@@ -53,7 +53,7 @@ Here are some key projects that demonstrate my hands-on experience in IT infrast
 
 ## Passion Projects
 
-### <a href="">Deep-Fake Face Classified (Video & Image)</a>
+### <a href="">Deep-Fake Face Classifier (Video & Image)</a>
 
 _A Python project, designed, implemented, and validated at Hong Kong Baptist University, designed for the detection of deep-fake media in real-time._ 
 
