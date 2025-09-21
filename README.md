@@ -3,6 +3,7 @@
 ## Professional Summary
 
 I am Luka Babetzki, an aspiring cybersecurity professional currently earning my CompTIA A+, Network+, and Security+ certifications through IT Online Learning. I'm passionate about transforming theoretical knowledge into practical skills through hands-on projects and lab environments. I document my learning journey and technical discoveries through my blog on Medium, sharing insights from real-world implementations and security challenges.
+
 <br><br>
 
 
@@ -36,7 +37,7 @@ Here are some key projects that demonstrate my hands-on experience in IT infrast
 <img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE_ATT&CK®-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=Atomic_Red_Team&logoColor=white"/>
 <br><br>
 </div>
 
@@ -77,6 +78,19 @@ _Brief description_
 
 <br><br>
 
+## Platforms
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="Your Image Badge" />
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/lukabbzk)
+
+<br>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/lukababetzki.png" width="300" />
+
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white)](https://cyberdefenders.org/p/lukababetzki)
+
+<br><br>
+
 
 <div align="center">
 
@@ -84,8 +98,8 @@ _Brief description_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukababetzki)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/lukabbzk)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white)](https://cyberdefenders.org/p/lukababetzki)
+
+
 </div>
 
 <div align="center">
