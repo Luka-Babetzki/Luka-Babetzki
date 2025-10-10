@@ -4,7 +4,7 @@
 
 I am Luka Babetzki, an aspiring cybersecurity professional currently earning my CompTIA A+, Network+, and Security+ certifications through IT Online Learning. I'm passionate about transforming theoretical knowledge into practical skills through hands-on projects and lab environments. I document my learning journey and technical discoveries through my blog on Medium, sharing insights from real-world implementations and security challenges.
 
-<br><br>
+<br>
 
 
 ## Portfolio
@@ -13,18 +13,17 @@ Here are some key projects that demonstrate my hands-on experience in IT infrast
 
 |       Project                           |        Skills/Knowledge Gained      |
 |-----------------------------------------|-------------------------------------|
-| <a href="">Set up a Ticketing System</a>               | `ServiceNow`, `Service-Level Agreements`, `Issue Management`, `Ticket Triage`, `Windows 10`, `Virtualisation`                                 |
-| <a href="">Active Directory & User Management</a>      | `Active Directory`, `Windows Server`, `Policy Group`, `Virtualisation`                |
-|  <a href="">Microsoft 365 Admin Environment</a>     |  `Microsoft 365 Administration` `Microsoft Exchange` `Microsoft Teams`, `User Management`, `Multi-Factor Authentication`, `Windows 10`, `Virtualisation`             |
+| <a href="">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Policy Group`, `Virtualisation`  |
 
-<br><br>
+
+<br>
 
 
 ## Certifications
 
 *Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
 
-<br><br>
+<br>
 
 
 ## Toolkit
@@ -76,18 +75,27 @@ _Brief description_
 
 -->
 
-<br><br>
+<br>
 
 ## Platforms
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="Your Image Badge" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <div style="text-align: center;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="TryHackMe Badge" />
+    <br>
+    <a href="https://tryhackme.com/p/lukabbzk">
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Shield"/>
+    </a>
+  </div>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/lukabbzk)
-
-<br>
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/lukababetzki.png" width="300" />
-
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white)](https://cyberdefenders.org/p/lukababetzki)
+  <div style="text-align: center;">
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/lukababetzki.png" width="300" alt="CyberDefenders Badge"/>
+    <br>
+    <a href="https://cyberdefenders.org/p/lukababetzki">
+      <img src="https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white" alt="CyberDefenders Shield"/>
+    </a>
+  </div>
+</div>
 
 <br><br>
 
