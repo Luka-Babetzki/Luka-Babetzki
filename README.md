@@ -16,12 +16,16 @@ I'm a first-class computer science graduate pursuing IT support roles where I ca
 - 💻 Visit my <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio">**Portfolio**</a> for more details about me.
 - 📰 I'm collaborating with professors to publish my bachelor thesis.
 
+
 ### Latest Blog Posts
 
 - <a href="https://medium.com/@lukababetzki/blue-team-labs-online-phishing-analysis-a7e6521efbc4">Phishing Analysis</a>
 - <a href="https://lukababetzki.medium.com/blue-team-labs-online-network-analysis-malware-compromise-8b3f89f29310">Network Analysis — Malware Compromise</a>
 
-<br>
+
+### Platforms
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="TryHackMe Badge" />
 
 ---
 
