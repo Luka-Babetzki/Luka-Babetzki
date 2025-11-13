@@ -8,7 +8,7 @@
 
 *CS Graduate (Seeking IT Help Desk / IT Support Technician role)*
 
-I'm a first-class computer science graduate pursuing IT support roles where I can help troubleshoot technical challenges, help users work efficiently, and build towards a career protecting critical systems.
+Currently pursuing Help Desk/IT Support roles whilst building skills towards offensive security operations.
 
 - ⚡ I'm learning every single day!
 - 🧠 I'm currently focused on completing my CompTIA A+ training!
