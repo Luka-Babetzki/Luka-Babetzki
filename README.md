@@ -1,25 +1,21 @@
-<!--
+### Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-![banner]
+I'm <a href= "www.lukababetzki.com">**Luka**</a>, a computer science graduate based in Manchester.
 
--->
+I build systems to understand how to break them.
 
-## > 🧑🏻‍💻 Hey there! I'm Luka!
+Prototype fast, fine-tune later.
 
-*CS Graduate (Seeking IT Help Desk / IT Support Technician role)*
+My main toolkit is Wireshark, Nmap, Metasploit, and Hashcat. I write my own tools/scripts in Python and Bash.
 
-Currently pursuing Help Desk/IT Support roles whilst building skills towards offensive security operations.
+I've got a bunch of pinned projects below, but my favourite is the <a href= "github.com/Luka-Babetzki/network-medic">Network Medic</a> tool.
 
-- ⚡ I'm learning every single day!
-- 🧠 I'm currently focused on completing my CompTIA A+ training!
-- ✍🏻 I write technical blogs. You can find my articles on <a href="https://lukababetzki.medium.com/">**Medium**</a>.
-- 💻 Visit my <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio">**Portfolio**</a> for more details about me.
-- 📰 I'm collaborating with professors to publish my bachelor thesis.
+You'll find me completing TryHackMe rooms and pwning HackTheBox labs.
 
-### Platforms
+Want to follow my journey and learn alongside me? Check out my <a href= "www.lukababetzki.com">website</a>!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="TryHackMe Badge" />
-
----
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
+**Fun facts:**
+- I love hiking and the outdoors
+- I have a neuroscience degree
+- *If Russia Wins* by Carlo Masala is my favourite book
+- **Hobbies:** chess, film photography, rooting HTB machines
